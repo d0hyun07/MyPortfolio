@@ -498,40 +498,22 @@ video::-webkit-media-controls {
   text-align: left;
 }
 
-.fivth-content .left-info em {
-  font-weight: 100%;
-}
-
-.fivth-content .left-info .social-icons {
-  margin-top: 0 auto;
+.fivth-content .circle{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #cdcdcd;
+  display: inline-block;
+  line-height: 50px;
   float: left;
 }
 
-.fivth-content .left-info ul {
-  padding: 0;
-  margin: 0 auto;
-}
-
-.fivth-content .left-info i {
-  margin: 0 auto;
-  color: #fff;
-  font-size: 50px;
-  width: 150px;
-  height: 150px;
-  background-color: #cdcdcd;
-  display: inline-block;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 50px;
-}
-
-.fivth-content .left-info i:hover {
+.fivth-content .circle:hover {
   background-color: #ffbb05;
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
 }
-
 
 
 
