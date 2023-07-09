@@ -1,0 +1,22 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h2{
+    text-align: center;
+    color: white;
+}
+strong{
+    color: red;
+    font-size: 1.2em;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.imgbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
