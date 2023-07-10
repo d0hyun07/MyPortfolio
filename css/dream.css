@@ -20,14 +20,3 @@ img{
     justify-content: center;
     align-items: center;
 }
-.flex {
-    display: flex;
-    justify-content: center;
-}
-.flex a {
-    display: block;
-}
-.flex img {
-    max-width: 100%;
-    height: auto;
-}
