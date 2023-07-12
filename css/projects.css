@@ -17,7 +17,7 @@ li {
 #slideShow {
     /*전체 컨테이너*/
     width: 500px;
-    height: 300px;
+    height: 200px;
     position: relative;
     margin: 150px auto;
     overflow: hidden; /*리스트 형식으로 이미지를 일렬로 정렬할 것이기 때문에, 500px 밖으로 튀어 나간 이미지들은 hidden으로 숨겨줘야됨*/
